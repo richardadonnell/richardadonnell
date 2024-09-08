@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Richard</h1>
 <h3 align="center">A passionate designer & full stack developer from The United States</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=richard&label=Profile%20views&color=0e75b6&style=flat" alt="richard" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=richardadonnell&label=Profile%20views&color=0e75b6&style=flat" alt="richard" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=richard" alt="richard" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=richardadonnell" alt="richard" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/richardadonnell" target="blank"><img src="https://img.shields.io/twitter/follow/richardadonnell?logo=twitter&style=for-the-badge" alt="richardadonnell" /></a> </p>
 
