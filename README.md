@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=richardadonnell&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <h1 align="center">Hi 👋, I'm Richard</h1>
-<h3 align="center">A passionate designer & full stack developer from The United States</h3>
+<h3 align="center">A passionate frontend developer from The United States</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=richardadonnell&label=Profile%20views&color=0e75b6&style=flat" alt="richard" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=richardadonnell&label=Profile%20views&color=0e75b6&style=flat" alt="richardadonnell" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=richardadonnell" alt="richard" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=richardadonnell" alt="richardadonnell" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/richardadonnell" target="blank"><img src="https://img.shields.io/twitter/follow/richardadonnell?logo=twitter&style=for-the-badge" alt="richardadonnell" /></a> </p>
 
@@ -52,8 +52,8 @@ Here are some ideas to get you started:
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/richardadonnell"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="richardadonnell" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=richard&show_icons=true&theme=dark&locale=en&layout=compact" alt="richard" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=richardadonnell&show_icons=true&theme=dark&locale=en&layout=compact" alt="richardadonnell" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=richard&show_icons=true&theme=dark&locale=en" alt="richard" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=richardadonnell&show_icons=true&theme=onedark&locale=en" alt="richardadonnell" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=richard&theme=dark" alt="richard" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=richardadonnell&theme=dark" alt="richardadonnell" /></p>
