@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=richardadonnell&show_icons=true&theme=onedark&locale=en" alt="richardadonnell" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=richardadonnell&theme=dark" alt="richardadonnell" /></p><br><br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=richardadonnell&theme=dark" alt="richardadonnell" /></p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/richardadonnell"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="richardadonnell" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/richardadonnell"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="richardadonnell" /></a></p>
