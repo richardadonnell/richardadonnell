@@ -1,7 +1,7 @@
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=richardadonnell&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <h1 align="center">Hi 👋, I'm Richard</h1>
-<h3 align="center">A passionate designer & full stack developer from The United States</h3>
+<h3 align="center">A passionate developer from The United States</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richardadonnell&label=Profile%20views&color=0e75b6&style=flat" alt="richardadonnell" /> </p>
 
