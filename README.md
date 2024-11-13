@@ -17,8 +17,6 @@
 
 - 📝 I regularly write articles on [https://richardadonnell.com](https://richardadonnell.com)
 
-- 📫 How to reach me **richardadonnell@gmail.com**
-
 - 📄 Know about my experiences [https://richardadonnell.com](https://richardadonnell.com)
 
 <h3 align="left">Connect with me:</h3>
