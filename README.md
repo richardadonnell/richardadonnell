@@ -2,9 +2,7 @@
 
 **AI Engineer** · LLM Integration & Automation · Full-Stack Systems
 
-I build production AI systems — LLM agents, RAG pipelines, MCP servers, and automation workflows — backed by 25+ years of hands-on engineering. I architect the full stack from model integration to deployment, and self-host everything on my own infrastructure.
-
-Currently shipping AI-augmented trading systems at **Verified Investing** (TypeScript, Next.js, React Native, real-time data pipelines).
+I build production AI systems — LLM agents, RAG pipelines, MCP servers, and automation workflows — backed by 25+ years of passion for tech & computers.
 
 ---
 
